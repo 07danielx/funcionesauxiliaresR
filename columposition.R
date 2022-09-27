@@ -1,4 +1,4 @@
-#Esta función sirve para obtener la posición de la columna de la que se sabe el nombre. Útil sobre todo en caso de usar matrices, bases de datos o dataframes que tienen un nùmero condierablemnte alto de variables
+#Esta función sirve para obtener la posición de la columna de la que se sabe el nombre. Útil sobre todo en caso de usar arreglos que tienen un nùmero considerablemente alto de variables
 function(dataframe, columna){
   incremento <- 1
   repeat{
